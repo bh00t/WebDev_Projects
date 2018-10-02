@@ -1,4 +1,4 @@
-var hello = function tick() {
+var hello = function(){
 				  const element = (
 				    <div>
 					    <center>	
